@@ -1,0 +1,22 @@
+{
+    "version": "1.29.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/n2jsoft-public-org/airlock/releases/download/v1.29.0/airlock_v1.29.0_windows_amd64.zip",
+            "bin": [
+                "airlock.exe"
+            ],
+            "hash": "35d36ba9cea970323da9189cd98375fb9ed55fad1edf05930eff3fee3d7dd517"
+        },
+        "arm64": {
+            "url": "https://github.com/n2jsoft-public-org/airlock/releases/download/v1.29.0/airlock_v1.29.0_windows_arm64.zip",
+            "bin": [
+                "airlock.exe"
+            ],
+            "hash": "7b8eea13844355d496fc2d8b0411becb8aa91b99d89cb415df674c1016b27962"
+        }
+    },
+    "homepage": "https://github.com/n2jsoft-public-org/airlock",
+    "license": "Apache-2.0",
+    "description": "One access point to your private resources, for you and your AI assistants."
+}
