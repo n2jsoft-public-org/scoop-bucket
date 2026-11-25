@@ -1,19 +1,19 @@
 {
-    "version": "1.36.0",
+    "version": "1.36.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/n2jsoft-public-org/airlock/releases/download/v1.36.0/airlock_v1.36.0_windows_amd64.zip",
+            "url": "https://github.com/n2jsoft-public-org/airlock/releases/download/v1.36.1/airlock_v1.36.1_windows_amd64.zip",
             "bin": [
                 "airlock.exe"
             ],
-            "hash": "4ca852a4e40c2fdf8e4ad7ef00fe018253e47e7d3e17cbbca440fc594ff64aa1"
+            "hash": "0d539cabfa3e8582ae8e034e3fe98a07fe00a486ea6aeffd17e78857de1e00fd"
         },
         "arm64": {
-            "url": "https://github.com/n2jsoft-public-org/airlock/releases/download/v1.36.0/airlock_v1.36.0_windows_arm64.zip",
+            "url": "https://github.com/n2jsoft-public-org/airlock/releases/download/v1.36.1/airlock_v1.36.1_windows_arm64.zip",
             "bin": [
                 "airlock.exe"
             ],
-            "hash": "ae652f098981bfd6b89380f34dfc2b75f02f70d9bcea0b9ef1d92971c42004fb"
+            "hash": "054341aa59be1dde0b688be94ba25d07aba326f844a121da9407ac59e6a14c4e"
         }
     },
     "homepage": "https://github.com/n2jsoft-public-org/airlock",
